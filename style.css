@@ -1,0 +1,42 @@
+body{
+    background-color: #457E86;
+    font-size: 18px;
+}
+.navbar-default{
+    background-color: #4A2B0F;
+    border-style: none;
+}
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a{
+    color:white;
+}
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover{
+    color:white;
+}
+.navbar-default .navbar-nav > li > a:hover{
+    color:#149B59;
+}
+.mainarea{
+    background-color: #EEEEEE;
+}
+.mainimg{
+    width: 100%
+}
+.mainarea h1, h2, p{
+    text-align: center;
+}
+.mainarea ul, .mainarea li{
+    text-align: center;
+    list-style: none;
+}
+.contact p{
+    font-weight: bold;
+}
+.contact p a{
+    color:black;
+    text-decoration: none;
+}
+hr{
+    border: 1px solid black;
+    margin: 20px 100px;
+}
