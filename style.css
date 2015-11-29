@@ -1,33 +1,64 @@
+/*Free Code Camp Background Color*/
 body{
     background-color: #457E86;
-    font-size: 18px;
+    color:black;
 }
+hr{
+    border: 1px solid black;
+    margin: 20px 100px;
+}
+
+/**********************NAVIGATION BAR*********************/
+/*Free Code Camp Navigation Bar Color Without and Border Stylings */
 .navbar-default{
     background-color: #4A2B0F;
-    border-style: none;
+    border-style:none;
 }
+/*Changed The Color Of The Text In The Navigation Bar (Hover included)*/
 .navbar-default .navbar-brand,
-.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a{
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-nav > li > a:hover
+{
     color:white;
 }
-.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover{
-    color:white;
+/*When screen is minimized and button is hovered the background color will be transparent*/
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
+    background-color: transparent;
 }
-.navbar-default .navbar-nav > li > a:hover{
-    color:#149B59;
+/*Navigation Button Bars color*/
+.navbar-default .navbar-toggle .icon-bar{
+    background-color: white;
 }
+
+/**********************MAIN AREA*********************/
+
 .mainarea{
     background-color: #EEEEEE;
 }
-.mainimg{
+
+/**********************WELCOME*********************/
+.welcome{
+    text-align: center;
+}
+.welcomeimg{
     width: 100%
 }
-.mainarea h1, h2, p{
+
+/**********************SKILLS*********************/
+.skills{
     text-align: center;
 }
-.mainarea ul, .mainarea li{
+.skills a{
+    color: #215F42;
+    text-decoration: none;
+}
+
+/**********************CONTACT*********************/
+.contact{
     text-align: center;
-    list-style: none;
 }
 .contact p{
     font-weight: bold;
@@ -35,8 +66,4 @@ body{
 .contact p a{
     color:black;
     text-decoration: none;
-}
-hr{
-    border: 1px solid black;
-    margin: 20px 100px;
 }
