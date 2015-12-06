@@ -1,3 +1,9 @@
+## Installation ##
+
+Ensure one has a latest copy of jekyll, ruby, node then execute:
+
+    npm install && npm start
+
 ## Resources ##
 https://github.com/freecodecampdallas/freecodecampdallas.github.io
 
