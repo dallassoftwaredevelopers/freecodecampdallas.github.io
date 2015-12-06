@@ -1,0 +1,15 @@
+---
+author_url: http://smartfornoreason.github.io/
+generator: jekyll 3.0.1
+permalink: pretty
+paginate: 5 # number of artilces on the index
+exclude: 
+        - README.md
+        - package.json
+        - grunt.js
+        - Gruntfile.js
+        - node_modules
+        - bower.js
+        - bower_components
+gems: 
+        - jekyll-paginate
