@@ -1,0 +1,7 @@
+{
+  "name": "freecodecampdallas.github.io",
+  "description": "",
+  "repository": "http://github.com/freecodecampdallas/freecodecampdallas.github.io",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
