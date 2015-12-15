@@ -1,9 +1,9 @@
-
 ---
 layout: default
 sitemap:
         priority: 0.5
         changefreq: 'yearly'
+        lastmod: 2015-12-15T14:31:54.336512812
 
 ---
 
@@ -54,9 +54,9 @@ If you've started using Git but need a nice reference. Follow the clean design a
  
 #### Articles ####
 
-- 4 key principles of web design https://99designs.com/designer-blog/2014/11/07/web-design-basics-guide/
-- 8 Effective Web Design Principles You Should Know http://conversionxl.com/8-universal-web-design-principles-you-should-to-know/
-- 25 Free Resources for New JavaScript Developers https://medium.freecodecamp.com/25-free-resources-for-new-javascript-developers-11342cf1f4df#.5x5yeew5z
+- [4 key principles of web design](https://99designs.com/designer-blog/2014/11/07/web-design-basics-guide/)
+- [8 Effective Web Design Principles You Should Know ](http://conversionxl.com/8-universal-web-design-principles-you-should-to-know/)
+- [25 Free Resources for New JavaScript Developers ](https://medium.freecodecamp.com/25-free-resources-for-new-javascript-developers-11342cf1f4df#.5x5yeew5z)
 
 #### JavaScript:Understanding the Weird Parts - Udemy ####
 

@@ -32,6 +32,17 @@ Global layout changes are made in the files located in `_layouts` and `_includes
 layout changes can be preformed on thier folder's index.html files.
 
 
+## FAQ ##
+
+### How to fix "Invalid Date: '' is not a valid datetime" error ###
+
+Pages require the lastmod date in thier frontmatter. Be sure to always use the ISO 8601 DateTime format, e.g. 2008-10-31T15:07:38.6875000-05:00:
+
+        sitemap:
+                priority: 0.5
+                changefreq: 'yearly'
+                lastmod: 2015-12-15T14:31:54.336512812
+
 ## Resources ##
 
 * [github](https://github.com/freecodecampdallas/freecodecampdallas.github.io)
