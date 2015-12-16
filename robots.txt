@@ -1,0 +1,11 @@
+---
+layout: null
+---
+
+User-agent: googlebot-image
+Disallow: /assets/img/
+
+User-agent: *
+Disallow: /assets/
+Disallow: /shop/
+Sitemap: http://{{site.url}}/sitemap.xml
