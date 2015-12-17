@@ -4,9 +4,7 @@ User-agent: googlebot-image
 Disallow: /assets/img/
 
 User-agent: *
-% for node in site.pages %}{% if node.noindex %}{% assign isset = true %}Disallow: {{ node.url }}
-{% endif %}{% endfor %}{% if isset != true %}Disallow:
-{% endif %}
+{% for node in site.pages %}{% if node.noindex %}Disallow: {{ node.url }}{% endif %}{% endfor %}
 Disallow: /assets/
 Disallow: /shop/
 Sitemap: {{site.url}}/sitemap.xml
