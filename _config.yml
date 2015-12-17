@@ -5,6 +5,7 @@ permalink: pretty
 paginate: 5 # number of articles on the index
 host: 0.0.0.0
 detach: true
+url: http://freecodecamp.github.io
 exclude: 
         - README.md
         - package.json
