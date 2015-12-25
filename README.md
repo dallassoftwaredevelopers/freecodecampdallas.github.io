@@ -1,8 +1,18 @@
-## Installation ##
+### Installation ###
 
-Ensure one has a latest copy of ruby, bundler, and node then execute:
+##Windows Users
 
-    npm install && npm start
+1. Ensure one has a latest copy of node and ruby
+    https://nodejs.org/en/ <<Node
+    http://rubyinstaller.org/ <<Ruby
+*Be sure to add node and ruby to your PATH*
+2. Once installed open command prompt and install bundler (gem bundler install)
+3. After installation is complete cd into the directory of the project and run the following
+    *npm install
+    *npm start
+    *npm run serve
+4. Once completed point your browser to localhost:4000
+5. Profit!
 
 ## Deployment ##
 
