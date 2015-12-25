@@ -65,3 +65,6 @@ hr {
   color: black;
   text-decoration: none;
 }
+.posts{
+    list-style: none;
+}
