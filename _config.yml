@@ -4,7 +4,7 @@ generator: jekyll 3.0.1
 permalink: pretty
 paginate: 5 # number of articles on the index
 host: 0.0.0.0
-detach: true
+detach: false
 url: http://freecodecamp.github.io
 exclude: 
         - README.md
