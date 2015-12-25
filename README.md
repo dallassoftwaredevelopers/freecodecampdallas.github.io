@@ -6,7 +6,7 @@
     https://nodejs.org/en/ <<Node
     http://rubyinstaller.org/ <<Ruby
 
-*Be sure to add node and ruby to your PATH*
+    *Be sure to add node and ruby to your PATH*
 
 2. Once installed open command prompt and install bundler (gem bundler install)
 3. After installation is complete cd into the directory of the project and run the following
