@@ -8,7 +8,9 @@ sitemap:
 ---
 
 # Educational Resources
+
 ##### By David Petrey
+
 ## -FREE-
 
 ### Javascript
