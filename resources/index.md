@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=Bv_5Zv5c-Ts
 ### CSS
 * CSS Tutorial http://www.w3schools.com/css/
  
-# Bootstrap
+### Bootstrap
 * http://getbootstrap.com/
  
 ### React.js
