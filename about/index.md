@@ -15,7 +15,7 @@ Learn to Code at http://www.freecodecamp.com/
 
 ### Webmasters Github
 
-<a class="webmastgit" href="https://github.com/smartfornoreason">@smartfornoreason</a>
+<a class="webmastgit" href="https://github.com/joshsdb">@joshsdb</a>
 
 <a class="webmastgit" href="https://github.com/denzuko">@denzuko</a>
 
