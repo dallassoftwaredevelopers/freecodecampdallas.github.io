@@ -15,4 +15,4 @@ Android users will now be able to keep up to date on events, order programming b
 
 New features will be released through out the coming months.
 
-(Download your free version now)[http://freecodecampdallas.com/assets/android/FreeCodeCampDfw.apk]
+[Download your free version now](http://freecodecampdallas.com/assets/android/FreeCodeCampDfw.apk)
