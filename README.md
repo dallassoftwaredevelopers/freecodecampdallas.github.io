@@ -4,7 +4,7 @@
 
 1. Ensure one has a latest copy of node and ruby
 
-    https://nodejs.org/en/ <<Node
+    https://nodejs.org/  <<Node
 
     http://rubyinstaller.org/ <<Ruby
 
