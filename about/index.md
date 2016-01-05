@@ -12,14 +12,27 @@ sitemap:
 
 Official Dallas Free Code Camp User Group.
 
-Learn to Code at http://www.freecodecamp.com/
+Learn to Code at [Free Code Camp](http://www.freecodecamp.com/)
 
 ### Webmasters Github
 
+
+<img class="webmastpic" src="/assets/img/webmastjosh.jpg"/>
+
+#### Joshua
 <a class="webmastgit" href="https://github.com/joshsdb">@joshsdb</a>
+<p>Joshua is a self taught Junior Front End Developer who loves creating, learning and teaching new technologies. When he is not programming/developing or playing Tetris.</p>
+<hr>
 
+<img class="webmastpic" src="/assets/img/webmastspence.jpg"/>
+
+#### Spencer
 <a class="webmastgit" href="https://github.com/denzuko">@denzuko</a>
+<hr>
 
+<img class="webmastpic" src="/assets/img/webmastdavid.jpg"/>
+
+#### David
 <a class="webmastgit" href="https://github.com/davidpetrey">@davidpetrey</a>
 
 </div>
