@@ -92,6 +92,3 @@ https://medium.freecodecamp.com/25-free-resources-for-new-javascript-developers-
 * JavaScript:Understanding the Weird Parts - Udemy 
 This is a great intermediate level JS video course. You will benefit most if you have already gone through some kind of beginner JS course. (Regularly $149, this course goes on sale all the time. Don't pay full price for it. You should be able to get it for $20 or less. And you can watch the first 3.5 hrs free on YouTube. youtube link listed above)
 https://www.udemy.com/understand-javascript/
-
-
-

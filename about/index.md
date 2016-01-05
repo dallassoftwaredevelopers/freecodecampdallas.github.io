@@ -16,18 +16,18 @@ Learn to Code at [Free Code Camp](http://www.freecodecamp.com/)
 
 ### Webmasters Github
 
-
 <img class="webmastpic" src="/assets/img/webmastjosh.jpg"/>
 
 #### Joshua
 <a class="webmastgit" href="https://github.com/joshsdb">@joshsdb</a>
-<p>Joshua is a self taught Junior Front End Developer who loves creating, learning and teaching new technologies. When he is not programming/developing or playing Tetris.</p>
+<p>Joshua is a self taught Junior Front End Developer who loves creating, learning and teaching new technologies.</p>
 <hr>
 
 <img class="webmastpic" src="/assets/img/webmastspence.jpg"/>
 
 #### Spencer
 <a class="webmastgit" href="https://github.com/denzuko">@denzuko</a>
+<p>He blogs, tweets, and code geeky things. In his spare time I teach at FreeCodeCamp Dallas, daytrade, and rapid prototype cool tech toys.</p>
 <hr>
 
 <img class="webmastpic" src="/assets/img/webmastdavid.jpg"/>
