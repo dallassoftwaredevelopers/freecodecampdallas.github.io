@@ -68,4 +68,23 @@ hr {
 /**********************WEBMASTERS*********************/
 .webmastpic{
     width: 200px;
-} 
+}
+/**********************POSTS**************************/
+.post h1.post-header {
+  margin-bottom: 10px;
+  line-height: 1.3em;
+  font-size: 1.8rem;
+}
+.post .post-meta {
+  font-size: 14px;
+  margin-top: 0;
+  font-weight: 300;
+  font-family: $font-family-serif;
+  margin-bottom: 1rem;
+  font-style: italic;
+  color: #9a9a9a;
+}
+.post img {
+  max-width: 100%;
+  vertical-align: middle;
+}
