@@ -12,10 +12,15 @@
 
 2. Once installed open command prompt and install bundler (gem install bundler)
 3. After installation is complete cd into the directory of the project and run the following
+
     *npm install
+    
     *npm start
+    
     *npm run serve
+    
 4. Once completed point your browser to localhost:4000
+
 5. Profit!
 
 ## Deployment ##

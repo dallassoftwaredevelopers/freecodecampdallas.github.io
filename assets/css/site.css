@@ -39,10 +39,6 @@ hr {
 .mainarea {
   background-color: #EEEEEE;
 }
-.row {
-  margin: 0;
-  padding: 20px;
-}
 /**********************WELCOME*********************/
 .welcome {
   text-align: center;
@@ -68,11 +64,4 @@ hr {
 .contact p a {
   color: black;
   text-decoration: none;
-}
-.posts{
-    list-style: none;
-}
-/**********************WEBMASTERS*********************/
-.webmastpic{
-    width: 200px;
 }
