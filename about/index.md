@@ -26,7 +26,7 @@ Learn to Code at [Free Code Camp](http://www.freecodecamp.com/)
 <img class="webmastpic" src="/assets/img/webmastspence.jpg"/>
 
 #### Spencer
-<a class="webmastgit" href="https://about.me/denzuko">@denzuko</a>
+<a class="webmastgit" href="https://about.me/dwightspencer">@denzuko</a>
 <p>He blogs, tweets, and codes geeky things. In his spare time he teaches at FreeCodeCamp Dallas, daytrade, and rapid prototypes cool tech toys.</p>
 <hr>
 
