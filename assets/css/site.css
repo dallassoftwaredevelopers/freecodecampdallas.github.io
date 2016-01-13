@@ -38,6 +38,7 @@ hr {
 /**********************MAIN AREA*********************/
 .mainarea {
   background-color: #EEEEEE;
+  font-size: 1.25em;
 }
 .row {
   margin: 0;
