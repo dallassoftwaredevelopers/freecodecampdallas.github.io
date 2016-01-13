@@ -39,6 +39,10 @@ hr {
 .mainarea {
   background-color: #EEEEEE;
 }
+.row {
+  margin: 0;
+  padding: 20px;
+}
 /**********************WELCOME*********************/
 .welcome {
   text-align: center;
