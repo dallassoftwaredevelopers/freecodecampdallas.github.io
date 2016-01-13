@@ -14,8 +14,10 @@ sitemap:
 ## -FREE-
 
 ### Javascript
-* Eloquent JavaScript</br>
-book with interactive coding examples</br>
+* Eloquent JavaScript
+</br>
+book with interactive coding examples
+</br>
 (http://eloquentjavascript.net)
 
 * You Don't Know JS (book series) 
