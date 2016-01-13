@@ -64,9 +64,7 @@ http://rogerdudler.github.io/git-guide/
 If you've started using Git but need a nice reference, this pretty nice. Clean design and to the point.
 https://www.atlassian.com/git/tutorials
 
-## Visual web design / graphic design
- 
-#### Articles 
+### Visual web design / graphic design
 
 * 4 key principles of web design https://99designs.com/designer-blog/2014/11/07/web-design-basics-guide/
 
