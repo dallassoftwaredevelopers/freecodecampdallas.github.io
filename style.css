@@ -1,0 +1,69 @@
+body {
+  padding-top: 70px;
+  font-family: 'Lato', sans-serif;
+  background: #006400;
+}
+.spacer{
+  padding: 15px;
+}
+/*Navigation Bar Color*/
+.navbar{
+  background-color: #006400;
+}
+/*Navigation Brand Name*/
+.navbar-default .navbar-brand{
+  color: #fff;
+  font-size: 24px;
+}
+.navbar-default .navbar-brand:hover{
+  color: #fff;
+}
+/*Navigation Links*/
+.navbar-default .navbar-nav>li>a{
+  color: #fff;
+  font-size: 20px;
+}
+.navbar-default .navbar-nav>li>a:hover{
+  color:#006400;
+  background: #fff;
+}
+
+/*Navigation Collaps Button [Menu]*/
+.navbar-default .navbar-toggle{
+  border-color: #fff; /*Border around button*/
+  color:#fff;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
+  background-color: #fff;
+  color:#006400;
+}
+/*Main Area*/
+.mainarea{
+  background: #006400;
+  text-align:center;
+  color:#fff;
+}
+.fcclogo{
+  margin: 0 auto;
+}
+.dallasskyline{
+  width: 100%;
+}
+/* About Area */
+.aboutarea{
+  text-align:center;
+  background: #fff;
+  margin-top: 0;
+}
+.aboutarea ul{
+  list-style: none;
+  font-size: 24px;
+  line-height: 40px;
+}
+.contributearea{
+  text-align:center;
+  color: #fff;
+}
+.contributearea a{
+  color: #fff;
+}
