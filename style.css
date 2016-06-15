@@ -52,6 +52,9 @@ body {
 .fcclogo {
     margin: 0 auto;
 }
+.dallasskyline{
+    margin: 0 auto;
+}
 /* Why Join Area */
 .whyjoinarea {
     text-align: center;
@@ -92,4 +95,9 @@ body {
 }
 .footerarea a {
     color: #fff;
+}
+@media only screen and (max-width: 416px) {
+    body{
+        width:953.250px;
+    }
 }
