@@ -3,14 +3,18 @@ body {
     font-family: 'Lato', sans-serif;
     background: #006400;
 }
+
 .spacer {
     padding: 15px;
 }
 
+
 /*Navigation Bar Color*/
+
 .navbar {
     background-color: #006400;
 }
+
 
 /*Navigation Brand Name*/
 
@@ -18,29 +22,39 @@ body {
     color: #fff;
     font-size: 24px;
 }
+
 .navbar-default .navbar-brand:hover {
     color: #fff;
 }
+
+
 /*Navigation Links*/
+
 .navbar-default .navbar-nav>li>a {
     color: #fff;
     font-size: 20px;
 }
+
 .navbar-default .navbar-nav>li>a:hover {
     color: #006400;
     background: #fff;
 }
+
+
 /*Navigation Collaps Button [Menu]*/
+
 .navbar-default .navbar-toggle {
     border-color: #fff;
     /*Border around button*/
     color: #fff;
 }
+
 .navbar-default .navbar-toggle:focus,
 .navbar-default .navbar-toggle:hover {
     background-color: #fff;
     color: #006400;
 }
+
 
 /*Main Area*/
 
@@ -48,56 +62,111 @@ body {
     background: #006400;
     text-align: center;
     color: #fff;
+    margin: 0;
 }
+
 .fcclogo {
     margin: 0 auto;
 }
-.dallasskyline{
+
+.dallasskyline {
     margin: 0 auto;
 }
+
+
 /* Why Join Area */
+
 .whyjoinarea {
     text-align: center;
     background: #fff;
     margin-top: 0;
 }
+
 .whyjoinarea ul {
     list-style: none;
     font-size: 24px;
     line-height: 40px;
 }
+
+
 /* User Group Area */
+
 .usergroups {
     text-align: center;
     color: #fff;
 }
-.usergroups a{
-        color:#fff;
+
+.usergroups a {
+    color: #fff;
 }
-.usergroups ul{
+
+.usergroups ul {
     list-style: none;
     font-size: 24px;
-    line-height: 40px; 
+    line-height: 40px;
+    padding-top: 20px;
 }
 /* Skills Learned Area */
-.skillslearned, .skillslearned div {
+
+.skillslearned,
+.skillslearned div {
     text-align: center;
     background: #fff;
     margin-top: 0;
 }
-.skillsicon{
-    font-size:100px;
+
+.skillsicon {
+    font-size: 100px;
 }
+
+
 /* Footer Area */
+
 .footerarea {
     text-align: center;
     color: #fff;
 }
+
 .footerarea a {
     color: #fff;
 }
-@media only screen and (max-width: 416px) {
-    body{
-        width:953.250px;
+
+
+/*Mobile*/
+
+@media only screen and (max-width: 767px) {
+    .navbar-default .navbar-brand {
+        font-size: 20px;
+    }
+    .mainarea h2 {
+        font-size: 20px;
+    }
+    .whyjoinarea h1 {
+        font-size: 20px;
+        font-weight: 800;
+    }
+    .whyjoinarea ul {
+        list-style: none;
+        font-size: 16px;
+        line-height: 35px;
+        padding-right: 40px;
+    }
+    .usergroups h1 {
+        font-size: 20px;
+        font-weight: 800;
+    }
+    .usergroups ul {
+        padding-left: 0;
+    }
+    .usergroups ul li a {
+        font-size: 20px;
+    }
+    .skillslearned h1 {
+        font-size: 20px;
+        font-weight: 800;
+    }
+    .skillslearned div{
+        display:inline-block; 
+        
     }
 }
