@@ -170,3 +170,13 @@ body {
         
     }
 }
+#edit{
+   display: inline-block;
+}
+#newimg{
+    height: 50px;
+    width: 50px;
+    margin-left: 200px;
+    
+      
+}
