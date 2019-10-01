@@ -1,7 +1,7 @@
 body {
     padding-top: 70px;
     font-family: 'Lato', sans-serif;
-    background: #006400;
+    background-color: #006400;
 }
 
 .spacer {
@@ -37,7 +37,7 @@ body {
 
 .navbar-default .navbar-nav>li>a:hover {
     color: #006400;
-    background: #fff;
+    background-color: #fff;
 }
 
 
@@ -59,7 +59,7 @@ body {
 /*Main Area*/
 
 .mainarea {
-    background: #006400;
+    background-color: #006400;
     text-align: center;
     color: #fff;
     margin: 0;
@@ -78,7 +78,7 @@ body {
 
 .whyjoinarea {
     text-align: center;
-    background: #fff;
+    background-color: #fff;
     margin-top: 0;
 }
 
@@ -111,7 +111,7 @@ body {
 .skillslearned,
 .skillslearned div {
     text-align: center;
-    background: #fff;
+    background-color: #fff;
     margin-top: 0;
 }
 
