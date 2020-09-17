@@ -43,4 +43,4 @@ jobs:
           IPFS_DEPLOY_CLOUDFLARE__ZONE: freecodecampdallas.com
           IPFS_DEPLOY_CLOUDFLARE__RECORD: _dnslink.test.freecodecampdallas.com
           CI: true
-        run: npx ipfs-deploy -p pinata -d cloudflare -O $GITHUB_WORKSPACE
+        run: npx ipfs-deploy -p pinata -d cloudflare -O .
