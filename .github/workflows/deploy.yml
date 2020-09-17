@@ -34,10 +34,6 @@ jobs:
         with:
           hugo-version: 'latest'
 
-      # Runs a single command using the runners shell
-      - name: Build site with hugo
-        run: hugo -D --minify
-        
       # Runs a set of commands using the runners shell
       - name: publish to ipfs
         env:
@@ -45,6 +41,6 @@ jobs:
           IPFS_DEPLOY_PINATA__SECRET_API_KEY: ${{ secrets.PINATA_SECRET }}
           IPFS_DEPLOY_CLOUDFLARE__API_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
           IPFS_DEPLOY_CLOUDFLARE__ZONE: freecodecampdallas.com
-          IPFS_DEPLOY_CLOUDFLARE__RECORD: _dnslink.freecodecampdallas.com
+          IPFS_DEPLOY_CLOUDFLARE__RECORD: _dnslink.test.freecodecampdallas.com
           CI: true
-        run: npx ipfs-deploy -p pinata -d cloudflare -O
+        run: npx ipfs-deploy -p pinata -d cloudflare -O $GITHUB_WORKSPACE
