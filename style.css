@@ -86,6 +86,8 @@ body {
     list-style: none;
     font-size: 24px;
     line-height: 40px;
+    text-align:left;
+    display:inline-block;
 }
 
 
