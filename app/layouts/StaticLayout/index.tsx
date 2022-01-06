@@ -5,7 +5,7 @@ const StaticLayout: React.FC = ({ children }) => {
   return (
     <>
       <Header />
-      {children}
+      <main style={{ marginTop: "2rem" }}>{children}</main>
     </>
   );
 };

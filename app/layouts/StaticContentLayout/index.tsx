@@ -1,13 +1,16 @@
 import * as React from "react";
-import ContentMargins from "../ContentMargins";
+import ContentMargins, { ContentMarginsProps } from "../ContentMargins";
 import StaticLayout from "../StaticLayout";
 
-const StaticContentLayout: React.FC = ({ children }) => {
-  return (
-    <StaticLayout>
-      <ContentMargins>{children}</ContentMargins>
-    </StaticLayout>
-  );
-};
+type StaticContentLayoutProps = ContentMarginsProps;
+
+const StaticContentLayout: React.FC<StaticContentLayoutProps> = ({
+  children,
+  wide = false,
+}) => (
+  <StaticLayout>
+    <ContentMargins wide={wide}>{children}</ContentMargins>
+  </StaticLayout>
+);
 
 export default StaticContentLayout;

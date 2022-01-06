@@ -1,7 +1,21 @@
-import React from "react";
+import * as React from "react";
 
-const ContentMargins: React.FC = ({ children }) => {
-  return <div className="content-margins">{children}</div>;
+export interface ContentMarginsProps {
+  wide?: boolean;
+}
+
+const ContentMargins: React.FC<ContentMarginsProps> = ({
+  children,
+  wide = false,
+}) => {
+  return (
+    <div
+      style={{ padding: "0 1rem", margin: "auto", maxWidth: wide ? 1440 : 900 }}
+      className="content-margins"
+    >
+      {children}
+    </div>
+  );
 };
 
 export default ContentMargins;

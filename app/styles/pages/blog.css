@@ -1,0 +1,17 @@
+.cards-layout {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 1rem;
+  list-style-type: none;
+  padding: 0;
+}
+.blog-card {
+  max-width: 100%;
+  width: 400px;
+  border: 1px solid var(--primary-dark);
+}
+
+.blog-card-body {
+  padding: 1rem;
+}
