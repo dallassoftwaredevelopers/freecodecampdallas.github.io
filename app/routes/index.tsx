@@ -1,12 +1,12 @@
-import * as React from "react";
-import StaticLayout from "~/layouts/StaticLayout";
-import RocketSvg from "~/svgs/RocketSvg";
-import staticStyles from "../styles/layouts/static.css";
-import indexStyles from "../styles/pages/index.css";
 import anime from "animejs";
-import { H1, H2, H3, P } from "~/library/Typography";
+import * as React from "react";
 import ContentMargins from "~/layouts/ContentMargins";
+import StaticLayout from "~/layouts/StaticLayout";
 import Divider from "~/library/Divider";
+import { H1, H2, P } from "~/library/Typography";
+import RocketSvg from "~/svgs/RocketSvg";
+import staticStyles from "~/styles/layouts/static.css";
+import indexStyles from "~/styles/pages/index.css";
 export const links = () => [
   { rel: "stylesheet", href: staticStyles },
   { rel: "stylesheet", href: indexStyles },
@@ -49,16 +49,6 @@ export default function Index() {
           <RocketSvg />
         </div>
       </ContentMargins>
-      <div style={{ backgroundColor: "#dadada", minHeight: "100vh" }}>
-        <P center>
-          freeCodeCamp Dallas is a local community of learners helping one
-          another accomplish programming goals. Join us on Discord or Facebook
-          to find out more.
-        </P>
-        <div className="rocket-wrap">
-          <RocketSvg />
-        </div>
-      </div>
     </StaticLayout>
   );
 }

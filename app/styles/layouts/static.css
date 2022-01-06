@@ -15,6 +15,10 @@
   cursor: pointer;
 }
 
+.header-links a {
+  text-decoration: none;
+}
+
 .header-links li:hover {
   text-decoration: underline;
 }
